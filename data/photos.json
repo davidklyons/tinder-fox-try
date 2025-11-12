@@ -1,0 +1,46 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "name": "Fiona the Arctic Fox",
+      "date": "2025-01-15",
+      "thumbnail": "https://randomfox.ca/images/1.jpg",
+      "full": "https://randomfox.ca/images/1.jpg",
+      "likes": 320,
+      "author": {
+        "name": "Liam Frost",
+        "image": "https://placekitten.com/50/50",
+        "user_since": "2023",
+        "channel": "FrostyFoxes"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Felix the Desert Fox",
+      "date": "2025-02-10",
+      "thumbnail": "https://randomfox.ca/images/2.jpg",
+      "full": "https://randomfox.ca/images/2.jpg",
+      "likes": 198,
+      "author": {
+        "name": "Maya Sun",
+        "image": "https://placebear.com/50/50",
+        "user_since": "2022",
+        "channel": "WildLens"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Freya the Forest Fox",
+      "date": "2025-03-05",
+      "thumbnail": "https://randomfox.ca/images/3.jpg",
+      "full": "https://randomfox.ca/images/3.jpg",
+      "likes": 410,
+      "author": {
+        "name": "Evan Green",
+        "image": "https://placebeard.it/50x50",
+        "user_since": "2021",
+        "channel": "NatureVibes"
+      }
+    }
+  ]
+}
