@@ -7,40 +7,141 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, viewport-fit=cover"
     />
-    <meta name="Description" content="Tinder Fox Game" />
-
+    <meta name="Description" content="Tinder Fox Gallery" />
     <title>Tinder Fox</title>
 
     <style>
-      html, body {
-        margin: 0;
-        padding: 0;
-        background-color: #faf9f6;
-        font-family: Arial, Helvetica, sans-serif;
+      body {
+        font-family: "Poppins", Arial, Helvetica, sans-serif;
+        background: #fffdfa;
         color: #333;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      header {
+        margin-top: 1rem;
+        margin-bottom: 0.5rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      header h1 {
+        font-size: 2rem;
+        font-weight: 700;
+        margin: 0;
       }
 
       main {
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
-        min-height: 100vh;
-        text-align: center;
+        gap: 1rem;
+        width: 100%;
       }
 
-      h1 {
-        font-size: 2rem;
+      .photo-scroll {
+        display: flex;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        gap: 1.5rem;
+        padding: 1rem;
+        justify-content: center;
+        width: 90%;
+      }
+
+      .photo-scroll::-webkit-scrollbar {
+        height: 8px;
+      }
+
+      .photo-scroll::-webkit-scrollbar-thumb {
+        background: #ddd;
+        border-radius: 4px;
+      }
+
+      .photo-card {
+        position: relative;
+        min-width: 250px;
+        height: 350px;
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease;
+        flex-shrink: 0;
+        background: #fff;
+      }
+
+      .photo-card img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .photo-card.active {
+        transform: scale(1.05);
+      }
+
+      .photo-card.liked {
+        border: 5px solid #32cd32;
+      }
+
+      .photo-card.disliked {
+        border: 5px solid #ff4d4d;
+      }
+
+      .photo-info {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: rgba(0, 0, 0, 0.6);
+        color: #fff;
+        padding: 0.5rem;
+        font-size: 0.85rem;
+        transition: opacity 0.3s ease;
+      }
+
+      .photo-info.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      .controls {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
         margin-bottom: 1rem;
+      }
+
+      .controls button {
+        border: none;
+        background: #eee;
+        padding: 0.75rem 1rem;
+        border-radius: 50%;
+        cursor: pointer;
+        font-size: 1.2rem;
+        transition: background 0.3s ease;
+      }
+
+      .controls button:hover {
+        background: #ddd;
       }
     </style>
   </head>
 
-  <body>
-    <main>
-      <h1>🦊 Tinder Fox</h1>
-      <tinder-fox></tinder-fox>
-    </main>
+<body>
+  <header>
+    <h1>🦊 Tinder Fox</h1>
+  </header>
+
+  <main>
+    <tinder-fox></tinder-fox>
+  </main>
 
     <script type="module" src="./tinder-fox.js"></script>
   </body>
