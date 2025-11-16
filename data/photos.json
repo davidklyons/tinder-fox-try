@@ -41,6 +41,664 @@
         "user_since": "2021",
         "channel": "NatureVibes"
       }
+    },
+    {
+      "id": 4,
+      "name": "Snowtail Explorer",
+      "date": "2025-01-12",
+      "thumbnail": "https://randomfox.ca/images/4.jpg",
+      "full": "https://randomfox.ca/images/4.jpg",
+      "likes": 256,
+      "author": {
+        "name": "Ivy North",
+        "image": "https://placekitten.com/51/51",
+        "user_since": "2022",
+        "channel": "ArcticPaws"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Rusty the Curious Fox",
+      "date": "2025-02-03",
+      "thumbnail": "https://randomfox.ca/images/5.jpg",
+      "full": "https://randomfox.ca/images/5.jpg",
+      "likes": 344,
+      "author": {
+        "name": "Derek Woods",
+        "image": "https://placebear.com/51/51",
+        "user_since": "2020",
+        "channel": "WildernessWatch"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Aurora Night Fox",
+      "date": "2025-02-28",
+      "thumbnail": "https://randomfox.ca/images/6.jpg",
+      "full": "https://randomfox.ca/images/6.jpg",
+      "likes": 573,
+      "author": {
+        "name": "Ruby Skye",
+        "image": "https://placebeard.it/51x51",
+        "user_since": "2024",
+        "channel": "SkylineShots"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hazel the Meadow Fox",
+      "date": "2025-03-14",
+      "thumbnail": "https://randomfox.ca/images/7.jpg",
+      "full": "https://randomfox.ca/images/7.jpg",
+      "likes": 410,
+      "author": {
+        "name": "Oliver Glen",
+        "image": "https://placekitten.com/52/52",
+        "user_since": "2021",
+        "channel": "GreenLeafFilms"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Willow the Silent Hunter",
+      "date": "2025-03-19",
+      "thumbnail": "https://randomfox.ca/images/8.jpg",
+      "full": "https://randomfox.ca/images/8.jpg",
+      "likes": 368,
+      "author": {
+        "name": "Sasha Moon",
+        "image": "https://placebear.com/52/52",
+        "user_since": "2023",
+        "channel": "MoonlitNature"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Piper the Swamp Fox",
+      "date": "2025-04-02",
+      "thumbnail": "https://randomfox.ca/images/9.jpg",
+      "full": "https://randomfox.ca/images/9.jpg",
+      "likes": 289,
+      "author": {
+        "name": "Troy Marsh",
+        "image": "https://placebeard.it/52x52",
+        "user_since": "2020",
+        "channel": "MarshlandMedia"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Loki the Sneaky Fox",
+      "date": "2025-04-14",
+      "thumbnail": "https://randomfox.ca/images/10.jpg",
+      "full": "https://randomfox.ca/images/10.jpg",
+      "likes": 602,
+      "author": {
+        "name": "Nina Frost",
+        "image": "https://placekitten.com/53/53",
+        "user_since": "2022",
+        "channel": "FrostFrame"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Ember the Little Fox",
+      "date": "2025-04-20",
+      "thumbnail": "https://randomfox.ca/images/11.jpg",
+      "full": "https://randomfox.ca/images/11.jpg",
+      "likes": 243,
+      "author": {
+        "name": "Caleb River",
+        "image": "https://placebear.com/53/53",
+        "user_since": "2023",
+        "channel": "RiverWildlife"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Marblecoat Fox",
+      "date": "2025-05-01",
+      "thumbnail": "https://randomfox.ca/images/12.jpg",
+      "full": "https://randomfox.ca/images/12.jpg",
+      "likes": 512,
+      "author": {
+        "name": "Ava Stone",
+        "image": "https://placekitten.com/54/54",
+        "user_since": "2024",
+        "channel": "StoneNature"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ginger the Red Fox",
+      "date": "2025-05-09",
+      "thumbnail": "https://randomfox.ca/images/13.jpg",
+      "full": "https://randomfox.ca/images/13.jpg",
+      "likes": 271,
+      "author": {
+        "name": "Logan Rust",
+        "image": "https://placebeard.it/54x54",
+        "user_since": "2021",
+        "channel": "RusticWild"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Shadowpaw Fox",
+      "date": "2025-05-18",
+      "thumbnail": "https://randomfox.ca/images/14.jpg",
+      "full": "https://randomfox.ca/images/14.jpg",
+      "likes": 384,
+      "author": {
+        "name": "Vera Shade",
+        "image": "https://placekitten.com/55/55",
+        "user_since": "2023",
+        "channel": "ShadedShots"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Copper the Autumn Fox",
+      "date": "2025-05-25",
+      "thumbnail": "https://randomfox.ca/images/15.jpg",
+      "full": "https://randomfox.ca/images/15.jpg",
+      "likes": 499,
+      "author": {
+        "name": "Ethan Oak",
+        "image": "https://placebear.com/55/55",
+        "user_since": "2022",
+        "channel": "OakNature"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Nova the Frost Fox",
+      "date": "2025-06-01",
+      "thumbnail": "https://randomfox.ca/images/16.jpg",
+      "full": "https://randomfox.ca/images/16.jpg",
+      "likes": 612,
+      "author": {
+        "name": "Stella Blue",
+        "image": "https://placebeard.it/55x55",
+        "user_since": "2024",
+        "channel": "BlueSkyMedia"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Sage the Wild Fox",
+      "date": "2025-06-08",
+      "thumbnail": "https://randomfox.ca/images/17.jpg",
+      "full": "https://randomfox.ca/images/17.jpg",
+      "likes": 432,
+      "author": {
+        "name": "Gavin Moss",
+        "image": "https://placekitten.com/56/56",
+        "user_since": "2020",
+        "channel": "MossyTrails"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Dusk the Mountain Fox",
+      "date": "2025-06-15",
+      "thumbnail": "https://randomfox.ca/images/18.jpg",
+      "full": "https://randomfox.ca/images/18.jpg",
+      "likes": 300,
+      "author": {
+        "name": "Isabel Peak",
+        "image": "https://placebear.com/56/56",
+        "user_since": "2021",
+        "channel": "PeakViews"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Fable the Storybook Fox",
+      "date": "2025-06-22",
+      "thumbnail": "https://randomfox.ca/images/19.jpg",
+      "full": "https://randomfox.ca/images/19.jpg",
+      "likes": 351,
+      "author": {
+        "name": "Harper Tale",
+        "image": "https://placebeard.it/56x56",
+        "user_since": "2024",
+        "channel": "TalePhotography"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Comet the Swift Fox",
+      "date": "2025-06-28",
+      "thumbnail": "https://randomfox.ca/images/20.jpg",
+      "full": "https://randomfox.ca/images/20.jpg",
+      "likes": 490,
+      "author": {
+        "name": "Riley Star",
+        "image": "https://placekitten.com/57/57",
+        "user_since": "2022",
+        "channel": "StarryShots"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Pebble the River Fox",
+      "date": "2025-07-03",
+      "thumbnail": "https://randomfox.ca/images/21.jpg",
+      "full": "https://randomfox.ca/images/21.jpg",
+      "likes": 278,
+      "author": {
+        "name": "Jonah Brook",
+        "image": "https://placebear.com/57/57",
+        "user_since": "2023",
+        "channel": "BrooksideViews"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Frostbite the Cold Fox",
+      "date": "2025-07-10",
+      "thumbnail": "https://randomfox.ca/images/22.jpg",
+      "full": "https://randomfox.ca/images/22.jpg",
+      "likes": 507,
+      "author": {
+        "name": "Kara White",
+        "image": "https://placebeard.it/57x57",
+        "user_since": "2024",
+        "channel": "WhiteOutMedia"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Twilight the Evening Fox",
+      "date": "2025-07-14",
+      "thumbnail": "https://randomfox.ca/images/23.jpg",
+      "full": "https://randomfox.ca/images/23.jpg",
+      "likes": 327,
+      "author": {
+        "name": "Miles Dusk",
+        "image": "https://placekitten.com/58/58",
+        "user_since": "2023",
+        "channel": "Duskline"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Storm the Fierce Fox",
+      "date": "2025-07-19",
+      "thumbnail": "https://randomfox.ca/images/24.jpg",
+      "full": "https://randomfox.ca/images/24.jpg",
+      "likes": 555,
+      "author": {
+        "name": "Zane Thunder",
+        "image": "https://placebear.com/58/58",
+        "user_since": "2022",
+        "channel": "ThunderPics"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Clover the Lucky Fox",
+      "date": "2025-07-25",
+      "thumbnail": "https://randomfox.ca/images/25.jpg",
+      "full": "https://randomfox.ca/images/25.jpg",
+      "likes": 241,
+      "author": {
+        "name": "Aiden Field",
+        "image": "https://placebeard.it/58x58",
+        "user_since": "2021",
+        "channel": "FieldShots"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Echo the Lonely Fox",
+      "date": "2025-08-01",
+      "thumbnail": "https://randomfox.ca/images/26.jpg",
+      "full": "https://randomfox.ca/images/26.jpg",
+      "likes": 315,
+      "author": {
+        "name": "Selena Vale",
+        "image": "https://placekitten.com/59/59",
+        "user_since": "2024",
+        "channel": "ValleyViews"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Flint the Brave Fox",
+      "date": "2025-08-06",
+      "thumbnail": "https://randomfox.ca/images/27.jpg",
+      "full": "https://randomfox.ca/images/27.jpg",
+      "likes": 430,
+      "author": {
+        "name": "Colt Ember",
+        "image": "https://placebear.com/59/59",
+        "user_since": "2023",
+        "channel": "EmberFilms"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Flicker the Bright Fox",
+      "date": "2025-08-10",
+      "thumbnail": "https://randomfox.ca/images/28.jpg",
+      "full": "https://randomfox.ca/images/28.jpg",
+      "likes": 367,
+      "author": {
+        "name": "Penny Light",
+        "image": "https://placebeard.it/59x59",
+        "user_since": "2022",
+        "channel": "LightLens"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Cedar the Woodland Fox",
+      "date": "2025-08-14",
+      "thumbnail": "https://randomfox.ca/images/29.jpg",
+      "full": "https://randomfox.ca/images/29.jpg",
+      "likes": 390,
+      "author": {
+        "name": "Rowan Branch",
+        "image": "https://placekitten.com/60/60",
+        "user_since": "2021",
+        "channel": "BranchOut"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Sparrow the Tiny Fox",
+      "date": "2025-08-19",
+      "thumbnail": "https://randomfox.ca/images/30.jpg",
+      "full": "https://randomfox.ca/images/30.jpg",
+      "likes": 228,
+      "author": {
+        "name": "June Sky",
+        "image": "https://placebear.com/60/60",
+        "user_since": "2023",
+        "channel": "SkySight"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Fennel the Sprout Fox",
+      "date": "2025-08-22",
+      "thumbnail": "https://randomfox.ca/images/31.jpg",
+      "full": "https://randomfox.ca/images/31.jpg",
+      "likes": 312,
+      "author": {
+        "name": "Glen Herb",
+        "image": "https://placebeard.it/60x60",
+        "user_since": "2024",
+        "channel": "HerbHaven"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Cinder the Ash Fox",
+      "date": "2025-08-24",
+      "thumbnail": "https://randomfox.ca/images/32.jpg",
+      "full": "https://randomfox.ca/images/32.jpg",
+      "likes": 501,
+      "author": {
+        "name": "Ash Grey",
+        "image": "https://placekitten.com/61/61",
+        "user_since": "2022",
+        "channel": "GreyPhotography"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Nimbus the Cloud Fox",
+      "date": "2025-08-25",
+      "thumbnail": "https://randomfox.ca/images/33.jpg",
+      "full": "https://randomfox.ca/images/33.jpg",
+      "likes": 666,
+      "author": {
+        "name": "Clara Sky",
+        "image": "https://placebear.com/61/61",
+        "user_since": "2021",
+        "channel": "SkyFocus"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Slate the Grey Fox",
+      "date": "2025-08-26",
+      "thumbnail": "https://randomfox.ca/images/34.jpg",
+      "full": "https://randomfox.ca/images/34.jpg",
+      "likes": 298,
+      "author": {
+        "name": "Dane Stone",
+        "image": "https://placebeard.it/61x61",
+        "user_since": "2023",
+        "channel": "StoneShutter"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Lavender the Soft Fox",
+      "date": "2025-08-26",
+      "thumbnail": "https://randomfox.ca/images/35.jpg",
+      "full": "https://randomfox.ca/images/35.jpg",
+      "likes": 341,
+      "author": {
+        "name": "Elara Bloom",
+        "image": "https://placekitten.com/62/62",
+        "user_since": "2022",
+        "channel": "BloomLens"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Whisker the Bold Fox",
+      "date": "2025-08-27",
+      "thumbnail": "https://randomfox.ca/images/36.jpg",
+      "full": "https://randomfox.ca/images/36.jpg",
+      "likes": 470,
+      "author": {
+        "name": "Ronan Sharp",
+        "image": "https://placebear.com/62/62",
+        "user_since": "2023",
+        "channel": "SharpShotStudios"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Tundra the Cold Fox",
+      "date": "2025-08-27",
+      "thumbnail": "https://randomfox.ca/images/37.jpg",
+      "full": "https://randomfox.ca/images/37.jpg",
+      "likes": 552,
+      "author": {
+        "name": "Aurora North",
+        "image": "https://placebeard.it/62x62",
+        "user_since": "2024",
+        "channel": "NorthLightsMedia"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Rubble the Scruffy Fox",
+      "date": "2025-08-28",
+      "thumbnail": "https://randomfox.ca/images/38.jpg",
+      "full": "https://randomfox.ca/images/38.jpg",
+      "likes": 201,
+      "author": {
+        "name": "Finn Crag",
+        "image": "https://placekitten.com/63/63",
+        "user_since": "2021",
+        "channel": "CraggyFilms"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Vesper the Night Fox",
+      "date": "2025-08-28",
+      "thumbnail": "https://randomfox.ca/images/39.jpg",
+      "full": "https://randomfox.ca/images/39.jpg",
+      "likes": 612,
+      "author": {
+        "name": "Nova Midnight",
+        "image": "https://placebear.com/63/63",
+        "user_since": "2024",
+        "channel": "MidnightLens"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Parch the Warm Fox",
+      "date": "2025-08-28",
+      "thumbnail": "https://randomfox.ca/images/40.jpg",
+      "full": "https://randomfox.ca/images/40.jpg",
+      "likes": 322,
+      "author": {
+        "name": "Clay Ember",
+        "image": "https://placebeard.it/63x63",
+        "user_since": "2023",
+        "channel": "EmberArts"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Birch the Pale Fox",
+      "date": "2025-08-29",
+      "thumbnail": "https://randomfox.ca/images/41.jpg",
+      "full": "https://randomfox.ca/images/41.jpg",
+      "likes": 244,
+      "author": {
+        "name": "Lila Grove",
+        "image": "https://placekitten.com/64/64",
+        "user_since": "2022",
+        "channel": "GroveGallery"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Crimson the Red Fox",
+      "date": "2025-08-29",
+      "thumbnail": "https://randomfox.ca/images/42.jpg",
+      "full": "https://randomfox.ca/images/42.jpg",
+      "likes": 689,
+      "author": {
+        "name": "Reed Scarlet",
+        "image": "https://placebear.com/64/64",
+        "user_since": "2021",
+        "channel": "ScarletShots"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Pebblefur Fox",
+      "date": "2025-08-29",
+      "thumbnail": "https://randomfox.ca/images/43.jpg",
+      "full": "https://randomfox.ca/images/43.jpg",
+      "likes": 352,
+      "author": {
+        "name": "Brooke Lane",
+        "image": "https://placebeard.it/64x64",
+        "user_since": "2024",
+        "channel": "LanewayMedia"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Sleet the Thin Fox",
+      "date": "2025-08-29",
+      "thumbnail": "https://randomfox.ca/images/44.jpg",
+      "full": "https://randomfox.ca/images/44.jpg",
+      "likes": 276,
+      "author": {
+        "name": "Tessa Chill",
+        "image": "https://placekitten.com/65/65",
+        "user_since": "2023",
+        "channel": "ChillPhotography"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Wisp the Breeze Fox",
+      "date": "2025-08-29",
+      "thumbnail": "https://randomfox.ca/images/45.jpg",
+      "full": "https://randomfox.ca/images/45.jpg",
+      "likes": 364,
+      "author": {
+        "name": "Owen Drift",
+        "image": "https://placebear.com/65/65",
+        "user_since": "2022",
+        "channel": "DriftMedia"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Frostfur the Cold Fox",
+      "date": "2025-08-29",
+      "thumbnail": "https://randomfox.ca/images/46.jpg",
+      "full": "https://randomfox.ca/images/46.jpg",
+      "likes": 532,
+      "author": {
+        "name": "Winter Gale",
+        "image": "https://placebeard.it/65x65",
+        "user_since": "2024",
+        "channel": "GaleForce"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Pine the Forest Fox",
+      "date": "2025-08-30",
+      "thumbnail": "https://randomfox.ca/images/47.jpg",
+      "full": "https://randomfox.ca/images/47.jpg",
+      "likes": 311,
+      "author": {
+        "name": "Cedric Woods",
+        "image": "https://placekitten.com/66/66",
+        "user_since": "2023",
+        "channel": "WoodlandWorks"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Ripple the Water Fox",
+      "date": "2025-08-30",
+      "thumbnail": "https://randomfox.ca/images/48.jpg",
+      "full": "https://randomfox.ca/images/48.jpg",
+      "likes": 283,
+      "author": {
+        "name": "Marina Wave",
+        "image": "https://placebear.com/66/66",
+        "user_since": "2022",
+        "channel": "WaveMedia"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Coal the Dark Fox",
+      "date": "2025-08-30",
+      "thumbnail": "https://randomfox.ca/images/49.jpg",
+      "full": "https://randomfox.ca/images/49.jpg",
+      "likes": 421,
+      "author": {
+        "name": "Jet Black",
+        "image": "https://placebeard.it/66x66",
+        "user_since": "2024",
+        "channel": "BlackFrame"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Nova the Star Fox",
+      "date": "2025-08-30",
+      "thumbnail": "https://randomfox.ca/images/50.jpg",
+      "full": "https://randomfox.ca/images/50.jpg",
+      "likes": 744,
+      "author": {
+        "name": "Zara Comet",
+        "image": "https://placekitten.com/67/67",
+        "user_since": "2024",
+        "channel": "GalacticNature"
+      }
     }
   ]
 }
