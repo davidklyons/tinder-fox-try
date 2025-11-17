@@ -53,18 +53,12 @@ const photos = [
   {"id":50,"name":"Sunset Lagoon Glow","date":"2025-02-19","thumbnail":"https://picsum.photos/seed/sunsetlagoon50/300/200","full":"https://picsum.photos/seed/sunsetlagoon50/600/400","likes":450,"dislikes":24,"author":{"name":"Owen Marsh","image":"https://picsum.photos/seed/owen50/50/50","user_since":"2021","channel":"LagoonLights"}}
 ];
 
-export default function handler(req, res) {
-  // Set CORS headers
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
-
-  // Handle OPTIONS request for CORS preflight
-  if (req.method === 'OPTIONS') {
-    res.status(200).end();
-    return;
-  }
-
-  // Return photos data
-  res.status(200).json({ photos });
+export default async function handler(request, res) {
+  res.setHeader('Cache-Control', 'max-age=0, s-maxage=1800');
+  res.setHeader("Access-Control-Allow-Credentials", "true");
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "GET,OPTIONS,PATCH,DELETE,POST,PUT");
+  res.setHeader("Access-Control-Allow-Headers", "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version");
+  
+  res.json({ photos });
 }

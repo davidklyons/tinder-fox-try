@@ -46,7 +46,7 @@ export class TinderFox extends DDDSuper(I18NMixin(LitElement)) {
 
   async firstUpdated() {
     try {
-      const res = await fetch("./data/photos.json");
+      const res = await fetch("/api/photos");
       const data = await res.json();
 
       this.photos = (data.photos || []).map((p) => {
